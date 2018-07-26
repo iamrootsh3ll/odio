@@ -10,16 +10,16 @@ Just copy the URL of your favourite music video and it'll start downloading the 
 It highly depends on **youtube-dl** ( http://rg3.github.io/youtube-dl/ ) and **ffmpeg** utility.
 
 ## Installing Dependencies
-Installing `youtube-dl`
+Installing `youtube-dl` and `ffmpeg`
 
-On Ubuntu:
+On **Ubuntu**:
 
 ```
 sudo apt update
 sudo apt install youtube-dl ffmpeg
 ```
 
-On MacOS:
+On **MacOS**:
 
 `brew install youtube-dl ffmpeg`
 
@@ -34,7 +34,7 @@ chmod +x odio
 sudo cp odio /usr/bin/
 ```
 
-Now simply run `odio` in your Terminal, and Odio will start downloading your fovourite music in current working directory of the Terminal. see `pwd`
+Now simply run `odio` in your Terminal, and Odio will start downloading your fovourite music in current working directory of the Terminal. See `pwd`
 
 # Author
 
