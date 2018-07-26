@@ -5,6 +5,11 @@ A Simple Utility to Download Youtube Videos Using Only Clipboard/PasteBoard
 Odio is a shell script which works on MacOS and Linux distributions. It allows you to download music by simply copying the video link from YouTube. No need of pasting the link in a tool and/or Terminal.
 Just copy the URL of your favourite music video and it'll start downloading the audio version from that page (if available)
 
+
+# In Working
+
+A working demonstration of `odio` on MacOS - [Watch on YouTube](https://www.youtube.com/watch?v=BrEVY3E9_bw)
+
 # Dependencies
 
 It highly depends on **youtube-dl** ( http://rg3.github.io/youtube-dl/ ) and **ffmpeg** utility.
