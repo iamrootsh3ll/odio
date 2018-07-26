@@ -34,7 +34,7 @@ chmod +x odio
 sudo cp odio /usr/bin/
 ```
 
-Now simply run `odio` in your Terminal, and Odio will start downloading your fovourite music in current working directory of the Terminal. See `pwd`
+Now simply run `odio` in your Terminal, and Odio will start downloading your favourite music in current working directory of the Terminal. See `pwd`
 
 # Author
 
