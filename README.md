@@ -36,7 +36,7 @@ Open Terminal and run the following commands:
 git clone https://github.com/iamrootsh3ll/odio
 cd odio
 chmod +x odio
-sudo cp odio /usr/bin/
+sudo cp odio /usr/local/bin/
 ```
 
 Now simply run `odio` in your Terminal, and Odio will start downloading your favourite music in current working directory of the Terminal. See `pwd`
