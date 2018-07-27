@@ -26,7 +26,9 @@ sudo apt install youtube-dl ffmpeg
 
 On **MacOS**:
 
-`brew install youtube-dl ffmpeg`
+```
+brew install youtube-dl ffmpeg
+```
 
 # Installing Odio
 
