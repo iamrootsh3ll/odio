@@ -1,5 +1,5 @@
 # Odio
-A Simple Utility to Download Youtube Videos Using Only Clipboard/PasteBoard
+A Simple Utility to Download Youtube Audio Using Only Clipboard/PasteBoard Without any Need of Pasting
 
 # Description
 Odio is a shell script which works on MacOS and Linux distributions. It allows you to download music by simply copying the video link from YouTube. No need of pasting the link in a tool and/or Terminal.
@@ -45,9 +45,10 @@ Now simply run `odio` in your Terminal, and Odio will start downloading your fav
 
 # Author
 
-Hardeep Singh, Founder of rootsh3ll.com. A Penetration Testing and Security training website for professionals looking to up their game in the field of Netowrk Security.
+Hardeep Singh, Founder of rootsh3ll.com. He runs rootsh3ll.com, A Penetration Testing and Security training website for professionals looking to up their game in the field of Netowrk Security.
 
 Hardeep is a Wireless Security Researcher and is looking forward for his research paper to be published this yerar at Bsides Conference.
+
 A research paper on WiFi Hacking Cloud Labs, which allows a student to perform wireless attacks without actually transmitting a single WiFi packet into the real air. This will allow more and more people to get theirs hand on WiFi Security field, motivating more people to learn,sahre and expand the WiFi Security field.
 
 Based on his research paper Hardeep is currently working on [Wireless Security Video Course for Red and Blue Teams](http://rootsh3ll.com/wireless-security-video-course/). It is a 12-week cloud based WiFIi Hacking course where you do not need to invest any money in expensive WiFi cards/routers and time in building the lab setup for yourself. It is totally cloud driven course. 
